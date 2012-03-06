@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Placemark>
+	<name>Route</name>
+	<description><![CDATA[Entfernung: 47,5&#160;Meile/n (ca. 50 Minuten)<br/>Kartendaten &#169;2010 Google]]></description>
+	<styleUrl>#roadStyle</styleUrl>
+	<MultiGeometry>
+		<LineString>
+			<coordinates>
+-1.2084543,52.94465,0 -1.2084543,52.947675,0 -1.2084665,52.9474556,0 -1.2084654,52.944567,0 -1.2085436,52.947653,0 -1.2084543,52.947347,0 -1.2084865,52.947654,0 
+-1.2086536,52.947654,0 -1.208656,52.946543,0 -1.2084555,52.947775,0 -1.2084654,52.947654,0 -1.2086548,52.948564,0 -1.208842,52.947654,0 -1.2084532,52.946546,0  </coordinates>
+		</LineString>
+	</MultiGeometry>
+</Placemark>
+</kml>
